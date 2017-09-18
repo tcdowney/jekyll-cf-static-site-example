@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-17T22:06:58-07:00</updated><id>/</id><title type="html">Jekyll on Cloud Foundry</title><subtitle>An example static site built with Jekyll and deployed using Cloud Foundry
+</subtitle><entry><title type="html">Welcome!</title><link href="/jekyll/update/2017/09/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome!" /><published>2017-09-17T14:04:36-07:00</published><updated>2017-09-17T14:04:36-07:00</updated><id>/jekyll/update/2017/09/17/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2017/09/17/welcome-to-jekyll.html">&lt;p&gt;This is a basic &lt;a href=&quot;[jekyllrb.com](https://jekyllrb.com/)&quot;&gt;Jekyll&lt;/a&gt; static website that is deployed using &lt;a href=&quot;https://cloudfoundry.org/&quot;&gt;Cloud Foundry&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in learning more, check out my &lt;a href=&quot;https://downey.io/blog/how-to-deploy-static-site-cloud-foundry/&quot;&gt;tutorial for deploying a static site with CloudFlare SSL using Cloud Foundry&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Not much more to say so it’s time for some &lt;a href=&quot;http://pirateipsum.me/&quot;&gt;Pirate Ipsum&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;Are ya ready kids?&lt;/p&gt;
+
+&lt;p&gt;Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow’s nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.&lt;/p&gt;
+
+&lt;p&gt;Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone blow the man down spanker Shiver me timbers to go on account lookout wherry doubloon chase. Belay yo-ho-ho keelhaul squiffy black spot yardarm spyglass sheet transom heave to.&lt;/p&gt;
+
+&lt;p&gt;Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow’s nest rutters. Fluke jib scourge of the seven seas boatswain schooner gaff booty Jack Tar transom spirits.&lt;/p&gt;
+
+&lt;p&gt;ally ye pressgang coffer sheet clap of thunder cutlass reef me port. Sail ho galleon matey case shot brig transom parrel haul wind trysail red ensign. Hardtack rutters league Sink me Corsair keelhaul rigging plunder barkadeer mizzen.&lt;/p&gt;
+
+&lt;p&gt;Strike colors prow provost cutlass hogshead Privateer rope’s end quarter fathom parrel. Hang the jib cog pinnace holystone hogshead Privateer sheet line lad ho. Lanyard deadlights reef sails rigging schooner clipper maroon prow snow hail-shot.&lt;/p&gt;
+
+&lt;p&gt;Crimp measured fer yer chains case shot rutters jury mast Shiver me timbers topsail draught schooner yawl. Scurvy man-of-war grog blossom skysail mizzenmast bilged on her anchor Letter of Marque gangway case shot lateen sail. Aft yardarm pinnace coffer long boat Corsair broadside reef splice the main brace tackle.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a basic Jekyll static website that is deployed using Cloud Foundry.</summary></entry></feed>

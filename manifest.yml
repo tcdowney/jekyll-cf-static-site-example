@@ -1,0 +1,6 @@
+applications:
+- name: my-static-site
+  memory: 32M
+  instances: 2
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+  random-route: true
