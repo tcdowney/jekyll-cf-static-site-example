@@ -40,3 +40,4 @@ exclude:
   - manifest.yml
   - nginx
   - LICENSE
+  - README.md

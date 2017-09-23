@@ -3,22 +3,28 @@ layout: default
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
+  .error-container {
+    margin: 100px auto;
     max-width: 600px;
     text-align: center;
   }
   h1 {
-    margin: 30px 0;
+    margin: 30px;
     font-size: 4em;
     line-height: 1;
     letter-spacing: -1px;
   }
 </style>
 
-<div class="container">
+<div class="error-container">
   <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <h2>Page not found</h2>
+  </br>
+  </br>
+  <p>Notice that this site is not using the default NGINX 404 page?</p>
+  <p>Want to learn how?</p>
+  </br>
+  <p>Check out this post on <a href="https://downey.io/blog/cloud-foundry-staticfile-buildpack-custom-404-error/">
+  how to set a custom 404 error page</a> for your Staticfile buildpack deployed site.</p>
+  </br>
 </div>
